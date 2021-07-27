@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+h1{
+	text-align: center;
+	color: rebeccapurple;
+}
+body{
+	display: block;
+	background-color: black;
+}
+.head {
+    margin: 10px;
+    padding: 10px;
+}
+
+.column{
+	display: flex;
+	margin-top: 20px;
+}
+h4{
+	color: whitesmoke;
+	text-align: center;
+	font-size: 40px;
+	color: orangered;
+}
+.dbz{
+	color: darkorange;
+}
+.column2{
+	display: flex;
+	margin-top: 20px;
+}
